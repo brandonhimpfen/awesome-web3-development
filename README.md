@@ -59,6 +59,7 @@
 - **[Moralis SDK](https://moralis.io/)** - A toolkit for building and scaling Web3 applications, with APIs for authentication and data storage.
 - **[WalletConnect](https://walletconnect.com/)** - A protocol for connecting dApps with mobile wallets via QR code scanning.
 - **[The Graph](https://thegraph.com/)** - An indexing protocol for querying blockchain data using subgraphs.
+- **[Base Pay Desk](https://oskarasi.github.io/base-pay-desk-site/)** - An open-source Base ETH payment-link builder for merchants, creators, agencies, and service sellers.
 
 ## Decentralized Storage
 
