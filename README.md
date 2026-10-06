@@ -74,6 +74,7 @@
 - **[Alchemy](https://www.alchemy.com/)** - A platform offering blockchain APIs and developer tools for building dApps.
 - **[Infura](https://infura.io/)** - A scalable API for connecting to the Ethereum network and IPFS.
 - **[QuickNode](https://www.quicknode.com/)** - A service providing fast and reliable blockchain APIs.
+- **[LYFTIUM](https://www.lyftium.com/)** - Ethereum Mainnet JSON-RPC with rpm pricing, `X-Api-Key` auth, and fail-closed 503 when the tip gate is closed.
 - **[Moralis](https://moralis.io/)** - A Web3 development platform offering APIs, SDKs, and tools for building dApps.
 - **[The Graph API](https://thegraph.com/)** - An API for querying blockchain data using subgraphs.
 
